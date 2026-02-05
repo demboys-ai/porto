@@ -62,12 +62,12 @@ export function About() {
                   </div>
 
                   <div className="p-8 bg-background border-4 border-foreground">
-                    <div className="text-4xl font-black text-foreground mb-2">12+</div>
-                    <p className="text-foreground font-bold uppercase tracking-wide text-sm">Years Exp</p>
+                    <div className="text-4xl font-black text-foreground mb-2">5+</div>
+                    <p className="text-foreground font-bold uppercase tracking-wide text-sm">Years Experince</p>
                   </div>
 
                   <div className="p-8 bg-background border-4 border-foreground">
-                    <div className="text-4xl font-black text-foreground mb-2">3.79</div>
+                    <div className="text-4xl font-black text-foreground mb-2">3.02</div>
                     <p className="text-foreground font-bold uppercase tracking-wide text-sm">GPA</p>
                   </div>
 
@@ -80,7 +80,7 @@ export function About() {
                 {/* Decorative element */}
                 <div className="p-8 bg-foreground border-4 border-foreground">
                   <p className="text-background font-bold text-lg leading-relaxed">
-                    Technical specialist with proven expertise in facility management, IoT systems, and operational optimization.
+                    Technical specialist with proven expertise in facility management, Engineering, and operational optimization.
                   </p>
                 </div>
               </div>
